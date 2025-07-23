@@ -14,7 +14,7 @@ The following sections describe the contents of the Navigine Android SDK reposit
 - [Get started](http://locations.navigine.com/login) with Navigine to get full access to Navigation services, SDKs, and applications.
 - Refer to the Navigine [User Manual](http://docs.navigine.com/) for complete product usage guidelines.
 - Find company contact information at the official website under <a href="https://navigine.com/contacts/">Contact</a> tab.
-- Join our community to discuss [this project](https://community.navigine.com/t/indoor-navigation-android-mobile-sdk-2-0/177). Share use cases, questions, and suggestions
+- [Join our community](https://community.navigine.com/t/indoor-navigation-android-mobile-sdk-2-0/177) to discuss this project. Share your use cases, questions, and suggestions
 
 ## Values and benefits
 
