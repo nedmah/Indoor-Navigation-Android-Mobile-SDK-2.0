@@ -25,29 +25,30 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Examples">
         <activity
-            android:name=".MeasurementManager.MeasurementActivity"
-            android:exported="false" >
-        </activity>
-
-        <activity
-            android:name=".AsyncRouteManager.AsyncRouteActivity"
-            android:exported="false">
-        </activity>
-
-        <activity
-            android:name=".NavigationManager.NavigationActivity"
-            android:exported="false">
-        </activity>
-
-        <activity
-            android:name=".LocationListManager.LocationListActivity"
-            android:exported="true">
+            android:name=".LocationWindow.Pickers.LocationWindowPickersActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".LocationWindow.Camera.LocationViewCameraActivity"
+            android:exported="false">
+        </activity>
+        <activity
+            android:name=".MeasurementManager.MeasurementActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AsyncRouteManager.AsyncRouteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NavigationManager.NavigationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LocationListManager.LocationListActivity"
+            android:exported="true" />
     </application>
 
 </manifest>

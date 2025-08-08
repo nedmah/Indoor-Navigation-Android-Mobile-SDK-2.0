@@ -49,7 +49,6 @@ class MeasurementActivity : AppCompatActivity() {
     }
 
     private fun initSdk() {
-        Navigine.initialize(applicationContext)
         val sdk = NavigineSdk.getInstance()
         // your server URL
         sdk.setServer("https://ips.navigine.com")
