@@ -80,6 +80,10 @@ private fun initSdk(context: Context) {
 
 For further usage examples, refer to other modules like:
 
-- [`locationmanager/`](../locationmanager)
-- [`navigationmanager/`](../navigationmanager)
-- [`measurement/`](../measurement)
+- [`locationmanager/`](../LocationManager)
+- [`navigationmanager/`](../NavigationManager)
+- [`measurement/`](../MeasurementManager)
+- [`AsyncRouteManager/`](../AsyncRouteManager)
+- [`LocationWindow_Camera/`](../Camera)
+- [`LocationWindow_Add_Objects/`](../AddingObjects)
+- [`LocationWindow_Pickers/`](../Pickers)
