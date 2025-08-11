@@ -126,7 +126,7 @@ class LocationWindowPickersActivity : AppCompatActivity() {
     }
 
     /**
-     * Subscribe to location and camera updates.
+     * Subscribe to location and pick updates.
      */
     private fun addListeners() {
         locationManager?.addLocationListener(locationListener)
